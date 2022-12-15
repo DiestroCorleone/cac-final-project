@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cac-final-project/static/css/main.8b9e9944.css",
+    "main.js": "/cac-final-project/static/js/main.999f1b79.js",
+    "static/media/coder-logo.svg": "/cac-final-project/static/media/coder-logo.f5a462c59a31acd2a77ca1061f98ae54.svg",
+    "index.html": "/cac-final-project/index.html",
+    "main.8b9e9944.css.map": "/cac-final-project/static/css/main.8b9e9944.css.map",
+    "main.999f1b79.js.map": "/cac-final-project/static/js/main.999f1b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b9e9944.css",
+    "static/js/main.999f1b79.js"
+  ]
+}
